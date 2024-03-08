@@ -15,7 +15,7 @@ This game supports 3 different level of difficulties (easy, medium, and hard) an
 
 <h1>running the app locally</h1>
 
-<p> Running the app is pretty straight forward. Just clone the app and run the main function using your favorite IDE. The main file is located in TicTacToeGame.java</p>
+<p> Running the app is pretty straightforward. Being a standalone Java application, all you have to do is clone the app and run the main function</p>
 
 <h1> Troubleshooting</h1>
 
